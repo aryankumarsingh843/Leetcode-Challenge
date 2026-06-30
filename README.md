@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
@@ -43,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
