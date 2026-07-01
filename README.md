@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
@@ -56,9 +57,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
