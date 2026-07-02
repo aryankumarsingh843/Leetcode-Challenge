@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
