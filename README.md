@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2574-left-and-right-sum-differences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
