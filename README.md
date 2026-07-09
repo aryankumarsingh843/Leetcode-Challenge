@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2574-left-and-right-sum-differences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |
