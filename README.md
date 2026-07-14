@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1922-count-good-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1922-count-good-numbers) |
+| [1952-three-divisors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1952-three-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2469-convert-the-temperature) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -124,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
