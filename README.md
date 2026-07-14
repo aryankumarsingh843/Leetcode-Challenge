@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2413-smallest-even-multiple) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
