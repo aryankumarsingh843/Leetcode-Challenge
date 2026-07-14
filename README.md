@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1922-count-good-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1922-count-good-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2413-smallest-even-multiple](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2469-convert-the-temperature) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Recursion
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0372-super-pow) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
