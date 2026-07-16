@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2553-separate-the-digits-in-an-array) |
 ## Divide and Conquer
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
