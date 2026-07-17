@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
@@ -113,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 ## Enumeration
 |  |
 | ------- |
