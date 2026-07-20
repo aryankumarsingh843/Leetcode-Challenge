@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2579-count-total-number-of-colored-cells](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2579-count-total-number-of-colored-cells) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Recursion
