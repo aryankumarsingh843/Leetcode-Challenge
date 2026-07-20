@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
+| [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0342-power-of-four) |
