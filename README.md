@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0372-super-pow) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
