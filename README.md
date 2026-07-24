@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0040-combination-sum-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
