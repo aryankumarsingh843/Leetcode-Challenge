@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [3536-maximum-product-of-two-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2579-count-total-number-of-colored-cells](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2579-count-total-number-of-colored-cells) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3536-maximum-product-of-two-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
