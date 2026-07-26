@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
