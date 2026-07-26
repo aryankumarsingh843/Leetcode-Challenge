@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0040-combination-sum-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
+| [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -187,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
