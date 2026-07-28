@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0038-count-and-say) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Union-Find
 |  |
 | ------- |
