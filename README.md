@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0238-product-of-array-except-self) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
