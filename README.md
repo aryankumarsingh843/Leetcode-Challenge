@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
