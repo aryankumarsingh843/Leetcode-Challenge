@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [0849-maximize-distance-to-closest-person](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0849-maximize-distance-to-closest-person) |
+| [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0461-hamming-distance) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0779-k-th-symbol-in-grammar) |
+| [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 | [2595-number-of-even-and-odd-bits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2595-number-of-even-and-odd-bits) |
 ## String
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -232,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0054-spiral-matrix) |
+| [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
