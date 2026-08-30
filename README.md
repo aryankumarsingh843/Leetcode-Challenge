@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
