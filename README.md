@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0849-maximize-distance-to-closest-person](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0849-maximize-distance-to-closest-person) |
 | [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0412-fizz-buzz) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -252,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0054-spiral-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
