@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0372-super-pow) |
+| [0412-fizz-buzz](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2129-capitalize-the-title) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
