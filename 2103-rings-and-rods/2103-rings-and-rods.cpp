@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countPoints(string rings) {
-     int arr[10][3]  = {};
+     int arr[10][3] = {};
 
      for (int i=0; i<rings.size(); i+=2){
         int colour = rings[i];
@@ -10,12 +10,12 @@ public:
         if (colour == 'R'){
             arr[rod][0] = 1;
         }
-
         else if (colour == 'G'){
             arr[rod][1] = 1;
         }
-
-        else arr[rod][2] = 1;
+        else {
+            arr[rod][2] = 1;
+        }
      }
 
      int ans = 0;
