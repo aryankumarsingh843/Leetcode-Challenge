@@ -13,7 +13,7 @@ public:
 
        int ans = xy/2 + yx/2;
 
-       if (xy%2==1 && yx%2==1) ans+=2;
+       if (xy%2==1 && yx%2==1) ans += 2;
 
        return ans;
     }
