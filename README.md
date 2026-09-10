@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
+| [0299-bulls-and-cows](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0299-bulls-and-cows) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
+| [0299-bulls-and-cows](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0299-bulls-and-cows) |
 | [0412-fizz-buzz](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0709-to-lower-case) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0299-bulls-and-cows) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2347-best-poker-hand](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2347-best-poker-hand) |
