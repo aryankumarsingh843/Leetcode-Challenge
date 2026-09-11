@@ -13,7 +13,7 @@ public:
             }
         }
 
-        int cow=0;
+        int cow = 0;
 
         for (int i=0; i<10; i++){
             cow += min(freqsecret[i], freqguess[i]);
