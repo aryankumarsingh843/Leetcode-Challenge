@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
+| [0859-buddy-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0859-buddy-strings) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0709-to-lower-case) |
+| [0859-buddy-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0859-buddy-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2103-rings-and-rods) |
