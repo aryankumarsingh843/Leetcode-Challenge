@@ -1,7 +1,7 @@
 class Solution {
 public:
     string getHint(string secret, string guess) {
-        int bull = 0;
+        int bull=0;
         int freqsecret[10] = {0};
         int freqguess[10] = {0};
 
