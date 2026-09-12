@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0859-buddy-strings) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2103-rings-and-rods](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2103-rings-and-rods) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0709-to-lower-case) |
 | [0859-buddy-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0859-buddy-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2103-rings-and-rods) |
 | [2129-capitalize-the-title](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2129-capitalize-the-title) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0299-bulls-and-cows) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2347-best-poker-hand](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2347-best-poker-hand) |
