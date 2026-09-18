@@ -18,7 +18,6 @@ public:
                 if (pattern[i] != pattern[j] && word[i] == word[j]) return false;
             }
         }
-
         return true;
     }
 };
