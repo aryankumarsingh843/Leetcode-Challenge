@@ -21,7 +21,7 @@ public:
         for (int i=0; i<words.size(); i++){
             if (match(words[i], pattern)) ans.push_back(words[i]);
         }
-
         return ans;
     }
 };
+        
