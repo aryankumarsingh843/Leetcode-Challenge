@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0556-next-greater-element-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0556-next-greater-element-iii) |
+| [0696-count-binary-substrings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0696-count-binary-substrings) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2938-separate-black-and-white-balls](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0556-next-greater-element-iii) |
+| [0696-count-binary-substrings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0709-to-lower-case) |
 | [0859-buddy-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0890-find-and-replace-pattern) |
