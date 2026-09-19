@@ -14,9 +14,8 @@ public:
         }
         return true;
     }
-    
     vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
-
+        
         vector <string> ans;
 
         for (int i=0; i<words.size(); i++){
