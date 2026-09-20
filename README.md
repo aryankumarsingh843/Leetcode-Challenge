@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0890-find-and-replace-pattern) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2103-rings-and-rods) |
 | [2129-capitalize-the-title](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2129-capitalize-the-title) |
