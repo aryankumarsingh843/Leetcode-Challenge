@@ -16,8 +16,8 @@ public:
                 zero = 0;
             }
 
-            ans0 = max(ans0, zero);
-            ans1 = max(ans1, one);
+            ans0 = max(zero, ans0);
+            ans1 = max(one, ans1);
         }
 
         if (ans1 > ans0) return true;
