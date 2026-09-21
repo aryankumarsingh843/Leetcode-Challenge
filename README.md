@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0890-find-and-replace-pattern) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
