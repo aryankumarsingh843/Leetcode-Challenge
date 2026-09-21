@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2347-best-poker-hand) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3265-count-almost-equal-pairs-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3265-count-almost-equal-pairs-i) |
 ## Binary Search
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2103-rings-and-rods) |
 | [2129-capitalize-the-title](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2129-capitalize-the-title) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2938-separate-black-and-white-balls](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2938-separate-black-and-white-balls) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3121-count-the-number-of-special-characters-ii) |
