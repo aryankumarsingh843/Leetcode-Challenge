@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0520-detect-capital) |
 | [0556-next-greater-element-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0556-next-greater-element-iii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
