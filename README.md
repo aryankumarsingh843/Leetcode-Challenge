@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0119-pascals-triangle-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
