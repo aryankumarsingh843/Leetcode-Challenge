@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0485-max-consecutive-ones) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0372-super-pow) |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0461-hamming-distance) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0779-k-th-symbol-in-grammar) |
