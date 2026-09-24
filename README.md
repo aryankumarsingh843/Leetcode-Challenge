@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3265-count-almost-equal-pairs-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3265-count-almost-equal-pairs-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2579-count-total-number-of-colored-cells](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2579-count-total-number-of-colored-cells) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
