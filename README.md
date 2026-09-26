@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1402-reducing-dishes](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1402-reducing-dishes](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1402-reducing-dishes) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
+| [1402-reducing-dishes](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1402-reducing-dishes) |
 ## Memoization
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1402-reducing-dishes](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2938-separate-black-and-white-balls](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2938-separate-black-and-white-balls) |
 ## Counting Sort
