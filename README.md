@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2347-best-poker-hand](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2347-best-poker-hand) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3265-count-almost-equal-pairs-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3265-count-almost-equal-pairs-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3536-maximum-product-of-two-digits) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
 ## Math
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1402-reducing-dishes](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2938-separate-black-and-white-balls](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2938-separate-black-and-white-balls) |
 ## Counting Sort
 |  |
