@@ -4,8 +4,9 @@ public:
         int k = minutes;
 
         vector <int>& arr = customers;
-        int n = arr.size();
         vector <int>& brr = grumpy;
+
+        int n = arr.size();
 
         int prevsum = 0;
 
@@ -40,6 +41,7 @@ public:
         }
 
         int sum = 0;
+
         for (int i=0; i<n; i++){
             if (brr[i] == 0) sum += arr[i];
         }
