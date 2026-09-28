@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0890-find-and-replace-pattern) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
+| [1052-grumpy-bookstore-owner](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1052-grumpy-bookstore-owner) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
