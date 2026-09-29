@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0890-find-and-replace-pattern) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1052-grumpy-bookstore-owner) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -351,5 +354,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
