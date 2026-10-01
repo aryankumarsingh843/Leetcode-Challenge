@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0890-find-and-replace-pattern) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
+| [0978-longest-turbulent-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1052-grumpy-bookstore-owner) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
+| [0978-longest-turbulent-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0978-longest-turbulent-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
 | [1402-reducing-dishes](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1402-reducing-dishes) |
 ## Memoization
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0713-subarray-product-less-than-k) |
+| [0978-longest-turbulent-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1052-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->
