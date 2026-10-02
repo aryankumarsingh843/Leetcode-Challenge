@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [2765-longest-alternating-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2765-longest-alternating-subarray) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3265-count-almost-equal-pairs-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3265-count-almost-equal-pairs-i) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2765-longest-alternating-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2765-longest-alternating-subarray) |
 | [3265-count-almost-equal-pairs-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3265-count-almost-equal-pairs-i) |
 ## Simulation
 |  |
