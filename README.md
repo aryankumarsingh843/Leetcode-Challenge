@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2413-smallest-even-multiple](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2427-number-of-common-factors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2427-number-of-common-factors) |
 | [2765-longest-alternating-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2765-longest-alternating-subarray) |
 | [3265-count-almost-equal-pairs-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3265-count-almost-equal-pairs-i) |
 ## Simulation
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2427-number-of-common-factors) |
 ## Geometry
 |  |
 | ------- |
@@ -370,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1052-grumpy-bookstore-owner) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
