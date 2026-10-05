@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0650-2-keys-keyboard) |
 | [0728-self-dividing-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0728-self-dividing-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0779-k-th-symbol-in-grammar) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
+| [0650-2-keys-keyboard](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0650-2-keys-keyboard) |
 | [0978-longest-turbulent-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0978-longest-turbulent-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
 | [1402-reducing-dishes](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1402-reducing-dishes) |
