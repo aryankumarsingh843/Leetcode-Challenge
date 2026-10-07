@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 | [2351-first-letter-to-appear-twice](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2595-number-of-even-and-odd-bits) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## String
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2427-number-of-common-factors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2427-number-of-common-factors) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [2765-longest-alternating-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2765-longest-alternating-subarray) |
 | [3265-count-almost-equal-pairs-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3265-count-almost-equal-pairs-i) |
 ## Simulation
@@ -386,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2427-number-of-common-factors) |
+## Brainteaser
+|  |
+| ------- |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
