@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
