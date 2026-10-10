@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [2594-minimum-time-to-repair-cars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2594-minimum-time-to-repair-cars) |
 | [2765-longest-alternating-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2765-longest-alternating-subarray) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2594-minimum-time-to-repair-cars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2594-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
 | ------- |
