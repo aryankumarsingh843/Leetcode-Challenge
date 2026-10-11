@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2347-best-poker-hand](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2347-best-poker-hand) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1402-reducing-dishes) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0054-spiral-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0861-score-after-flipping-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Pigeonhole Principle
 |  |
 | ------- |
