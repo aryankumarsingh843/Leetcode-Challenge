@@ -412,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
