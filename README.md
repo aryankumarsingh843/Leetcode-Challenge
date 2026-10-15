@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0696-count-binary-substrings) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -418,4 +419,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
