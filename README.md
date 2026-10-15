@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0342-power-of-four) |
@@ -415,5 +416,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
