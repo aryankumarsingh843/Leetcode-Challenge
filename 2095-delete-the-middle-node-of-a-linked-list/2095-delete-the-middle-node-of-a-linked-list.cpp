@@ -12,24 +12,28 @@ class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
 
-       if (head==NULL || head->next==NULL) return NULL;
-       ListNode* temp = head;
+    // Agar size 1 ho tab
+    if (head == NULL || head->next==NULL) return NULL;
 
-       //Size++
-       int size=0;
-       while (temp!=NULL){
+    ListNode* temp = head;
+
+    //Size Ko Find karna hai
+
+    int size=0;
+
+    while (temp != NULL){
         size++;
         temp = temp->next;
-       }
+    }
 
-       int mid = size/2;
-       temp = head;
+    int mid = size/2;
+    temp = head;
 
-       for (int i=0; i<mid-1; i++){
+    for (int i=0; i<mid-1; i++){
         temp = temp->next;
-       }
+    }
 
-       temp->next = temp->next->next;
+    temp->next = temp->next->next;
     return head;
     }
 };
