@@ -11,36 +11,40 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
+  // Convert All LinkedLsit into array
 
-        //Array Ma stored kar leta ha
+  ListNode* temp = head;
+  vector <int> arr;
 
-        ListNode* temp = head;
-        vector <int> arr;
-        while (temp != NULL){
-            arr.push_back(temp->val);
-            temp = temp->next;
-        }
+  while (temp != NULL){
+    arr.push_back(temp->val);
+    temp = temp->next;
+  }
 
-        int i=left-1;
-        int j=right-1;
+  // Reverse Part
 
-        while (i<=j){
-            int reverse = arr[i];
-            arr[i] = arr[j];
-            arr[j] = reverse;
-            i++;
-            j--;
-        }
-    // Now convert array into linkedlist
+  int i=left-1;
+  int j=right-1;
 
-    temp = head;
-    int k=0;
-    while (temp != NULL){
-        temp->val = arr[k];
-        temp = temp->next;
-        k++;
-    }
+  while (i<=j){
+    int reverse = arr[i];
+    arr[i] = arr[j];
+    arr[j] = reverse;
+    i++;
+    j--;
+  }
 
-    return head;
+ // Convert into linkedlist
+
+ temp = head;
+ int k=0;
+
+ while (temp != NULL){
+    temp->val = arr[k];
+    temp = temp->next;
+    k++;
+ }
+
+ return head;
     }
 };
