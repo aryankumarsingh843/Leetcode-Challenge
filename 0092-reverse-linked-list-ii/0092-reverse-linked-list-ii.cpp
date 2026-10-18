@@ -16,12 +16,12 @@ public:
   ListNode* temp = head;
   vector <int> arr;
 
-  while (temp != NULL){
+  while (temp!=NULL){
     arr.push_back(temp->val);
     temp = temp->next;
   }
 
-  // Reverse Part
+  // Sort the array
 
   int i=left-1;
   int j=right-1;
@@ -34,17 +34,15 @@ public:
     j--;
   }
 
- // Convert into linkedlist
+  temp = head;
+  int k=0;
 
- temp = head;
- int k=0;
-
- while (temp != NULL){
+  while (temp != NULL){
     temp->val = arr[k];
     temp = temp->next;
     k++;
- }
+  }
 
- return head;
+  return head;
     }
 };
