@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0148-sort-list) |
 | [0372-super-pow](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0372-super-pow) |
 ## Number Theory
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
@@ -438,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
