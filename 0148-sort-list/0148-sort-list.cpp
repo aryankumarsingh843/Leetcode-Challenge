@@ -11,32 +11,34 @@
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        ListNode* temp = head;
-        vector <int> arr;
+       ListNode* temp = head;
+       vector <int> arr;
 
-        while (temp != NULL){
-            arr.push_back(temp->val);
-            temp = temp->next;
+       while (temp != NULL){
+        arr.push_back(temp->val);
+        temp = temp->next;
+       }
+
+       int n = arr.size();
+
+       for (int i=0; i<n; i++){
+        int j=i;
+        while (j>0){
+            if (arr[j] >= arr[j-1]) break;
+            else swap(arr[j], arr[j-1]);
+            j--;
         }
+       }
 
-        for (int i=1; i<arr.size(); i++){
-            int j=i;
-            while (j>0){
-                if (arr[j] > arr[j-1]) break;
-                else swap(arr[j], arr[j-1]);
-                j--;
-            }
-        }
+       temp = head;
+       int k=0;
 
-        temp = head;
-        int k=0;
+       while (temp != NULL){
+        temp->val = arr[k];
+        temp = temp->next;
+        k++;
+       }
 
-        while (temp != NULL){
-            temp->val = arr[k];
-            temp = temp->next;
-            k++;
-        }
-
-        return head;
+       return head;
     }
 };
