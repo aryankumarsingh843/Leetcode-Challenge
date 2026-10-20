@@ -30,9 +30,10 @@ public:
             }
 
             carry = sum / 10;
-            int digit = sum%10;
+            int digit = sum % 10;
 
             ListNode* newNode = new ListNode(digit);
+
             temp->next = newNode;
             temp = temp->next;
         }
