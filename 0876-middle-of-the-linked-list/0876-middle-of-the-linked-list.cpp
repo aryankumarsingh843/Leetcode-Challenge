@@ -21,9 +21,11 @@ public:
 
         int midIdx = len/2;
         ListNode* mid = head;
+
         for (int i=1; i<=midIdx; i++){
             mid = mid->next;
         }
+
         return mid;
     }
 };
