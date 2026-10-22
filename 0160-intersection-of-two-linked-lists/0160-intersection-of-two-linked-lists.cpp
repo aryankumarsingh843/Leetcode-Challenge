@@ -40,6 +40,7 @@ public:
                 tempa = tempa->next;
                 tempb = tempb->next;
             }
+
             return tempb;
         }
         else {
