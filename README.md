@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2938-separate-black-and-white-balls](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2938-separate-black-and-white-balls) |
 ## Sorting
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
