@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0268-missing-number) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
