@@ -10,9 +10,8 @@ public:
             if (nums[i] > nums[i-1]) increasing = true;
             else if (nums[i] < nums[i-1]) decreasing = true;
         }
-        if (increasing && decreasing) {
-            return false;
-        }
-        else return true;
+
+        if (increasing && decreasing) return false;
+        return true;
     }
 };
