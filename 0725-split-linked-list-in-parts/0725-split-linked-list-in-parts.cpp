@@ -19,7 +19,7 @@ public:
         temp = temp->next;
     }
 
-    vector <ListNode* > ans(k, nullptr);
+    vector <ListNode*> ans(k, nullptr);
     temp = head;
 
     for (int i=0; i<k; i++){
