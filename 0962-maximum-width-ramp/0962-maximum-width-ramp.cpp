@@ -9,9 +9,7 @@ public:
                 st.push(i);
             }
         }
-
         int ans = 0;
-
         for (int j=n-1; j>=0; j--){
             while (!st.empty() && nums[st.top()] <= nums[j]){
                 ans = max(ans, j-st.top());
