@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0962-maximum-width-ramp) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0890-find-and-replace-pattern) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0844-backspace-string-compare) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0962-maximum-width-ramp) |
 ## Merge Sort
 |  |
