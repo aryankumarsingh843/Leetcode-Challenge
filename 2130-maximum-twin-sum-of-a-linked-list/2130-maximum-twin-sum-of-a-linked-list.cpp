@@ -31,6 +31,7 @@ public:
        }
 
        int ans = 0;
+
        ListNode* first = head;
        ListNode* second = prev;
 
