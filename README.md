@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [0859-buddy-strings](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0859-buddy-strings) |
 | [0890-find-and-replace-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0890-find-and-replace-pattern) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
