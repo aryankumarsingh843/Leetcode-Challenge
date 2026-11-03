@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1590-make-sum-divisible-by-p) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1590-make-sum-divisible-by-p](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1590-make-sum-divisible-by-p) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2483-minimum-penalty-for-a-shop) |
