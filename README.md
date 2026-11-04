@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0890-find-and-replace-pattern) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1991-find-the-middle-index-in-array) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0991-broken-calculator) |
 | [1137-n-th-tribonacci-number](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1137-n-th-tribonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1052-grumpy-bookstore-owner) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/1248-count-number-of-nice-subarrays) |
 ## Euclidean Algorithm
 |  |
 | ------- |
