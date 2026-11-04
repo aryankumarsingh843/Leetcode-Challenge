@@ -19,13 +19,14 @@ public:
 
       for (int i=0; i<n; i++){
         prefix += nums[i];
-        int current = prefix%p;
-        int target = (current - rem + p)%p;
+        int current = prefix % p;
+        int target = (current - rem + p) % p;
 
         if (ans.find(target) != ans.end()){
             int len = i - ans[target];
             answer = min(answer, len);
         }
+
         ans[current] = i;
       }
       return answer == n ? -1 : answer;
