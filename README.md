@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-minimum-time-to-repair-cars](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2594-minimum-time-to-repair-cars) |
 | [2765-longest-alternating-subarray](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2765-longest-alternating-subarray) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2845-count-of-interesting-subarrays](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2845-count-of-interesting-subarrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3265-count-almost-equal-pairs-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3265-count-almost-equal-pairs-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2347-best-poker-hand](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
+| [2845-count-of-interesting-subarrays](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2845-count-of-interesting-subarrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3265-count-almost-equal-pairs-i](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/3265-count-almost-equal-pairs-i) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2574-left-and-right-sum-differences) |
+| [2845-count-of-interesting-subarrays](https://github.com/aryankumarsingh843/Leetcode-Challenge/tree/master/2845-count-of-interesting-subarrays) |
 ## Math
 |  |
 | ------- |
